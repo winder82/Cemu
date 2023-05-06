@@ -87,6 +87,7 @@ You can skip this section if you have an Intel Mac. Every time you compile, you 
 ### Installing dependencies
 
 `brew install boost git cmake llvm ninja nasm molten-vk`
+'brew install pkg-config'
 
 ### Build Cemu using cmake and clang
 1. `git clone --recursive https://github.com/cemu-project/Cemu`
